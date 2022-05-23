@@ -91,6 +91,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>portal-frontend-service</finalName>
     </build>
 
 </project>
